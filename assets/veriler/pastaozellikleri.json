@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Ispanaklı Pasta",
+    "image":  "assets/image/ispanaklipasta.jpeg",
+    "route": "/ispanaklipasta"
+  },
+  {
+    "id": 2,
+    "name": "Alman Pastası",
+    "image": "assets/image/almanpastasi.jpeg",
+    "route": "/almanpastasi"
+  },
+  {
+    "id": 3,
+    "name": "Red Velvet",
+    "image": "assets/image/redvelvet.jpeg",
+    "route": "/redvelvet"
+  },
+  {
+    "id": 4,
+    "name": "Tiramisu",
+    "image": "assets/image/tiramisu.jpeg",
+    "route": "/tiramisu"
+  },
+  {
+    "id": 5,
+    "name": "Çikolatalı Kek",
+    "image": "assets/image/cikolatalikek.jpeg",
+    "route": "/cikolatalikek"
+  }
+]

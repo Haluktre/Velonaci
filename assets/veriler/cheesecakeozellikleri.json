@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Frabuazlı Çikolatalı Cheesecake",
+    "image": "assets/image/frambuazlicikolatalicheesecake.jpeg",
+    "route": "/frambuazlicikolatalicheesecake"
+  },
+  {
+    "id": 2,
+    "name": "Frambuzalı Cheesecake",
+    "image": "assets/image/frambuazlicheesecake.jpeg",
+    "route": "/frambuazlicheesecake"
+  },
+  {
+    "id": 3,
+    "name": "Limonlu Cheesecake",
+    "image": "assets/image/limonlucheesecake.jpeg",
+    "route": "/limonlucheesecake"
+  },
+  {
+    "id": 4,
+    "name": "San Sebastian Cheesecake",
+    "image": "assets/image/sansebastiancheesecake.jpeg",
+    "route": "/sansebastiancheesecake"
+  },
+  {
+    "id": 5,
+    "name": "Tuzlu Cheesecake",
+    "image": "assets/image/tuzlucheesecake.jpeg",
+    "route": "/tuzlucheesecake"
+  },
+  {
+    "id": 6,
+    "name": "Dondurma Cheesecake",
+    "image": "assets/image/dondurmacheesecake.jpeg",
+    "route": "/dondurmacheesecake"
+  },
+  {
+    "id": 7,
+    "name": "Browni Cheesecake",
+    "image": "assets/image/brownicheesecake.jpeg",
+    "route": "/brownicheesecake"
+  }
+]
