@@ -1,6 +1,6 @@
 # velonaci
 
-A new Flutter project.
+Cake recipes
 
 ## Getting Started
 
